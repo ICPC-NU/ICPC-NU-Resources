@@ -24,4 +24,4 @@ https://vjudge.net/group/acmnu
 |  Name | Competitive programming 3 book                                                  | 
 |-------|---------------------------------------------------------------------|
 |  Link | http://booksdescr.org/ads.php?md5=F6F195012783A8B3C8BB7628882A51B7   |
-|  usage| Study flow and topics syllabus , problems supply                                     |
+|  usage| Study flow and topics syllabus, reading material , problems supply                                     |
