@@ -19,4 +19,4 @@ https://vjudge.net/group/acmnu
 |  Name | Mostafa Saad Junior training sheet                                  | 
 |-------|---------------------------------------------------------------------|
 |  Link | https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing   |
-|  usage| Study flow and topics syllabus                                      |
+|  usage| Problems supply                                      |
