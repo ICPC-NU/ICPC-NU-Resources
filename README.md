@@ -11,7 +11,12 @@ https://vjudge.net/group/acmnu
 -----------------------------------------------------------------------------------------------------------------------------------
 ### Material and syllabus
 
-| ## Name | Guc's acm syllabus                                                  | 
-|--------|---------------------------------------------------------------------|
-| ## Link | https://github.com/AhmadElsagheer/Competitive-programming-library   |
-| ## usage| Study flow and topics syllabus                                      |
+|  Name | Guc's acm syllabus                                                  | 
+|-------|---------------------------------------------------------------------|
+|  Link | https://github.com/AhmadElsagheer/Competitive-programming-library   |
+|  usage| Study flow and topics syllabus                                      |
+
+|  Name | Mostafa Saad Junior training sheet                                  | 
+|-------|---------------------------------------------------------------------|
+|  Link | https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing   |
+|  usage| Study flow and topics syllabus                                      |
