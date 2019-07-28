@@ -9,7 +9,7 @@ https://vjudge.net/group/acmnu
 |  1 |https://vjudge.net/contest/312876                               |   summer'19      |
 
 -----------------------------------------------------------------------------------------------------------------------------------
-### Material and syllabus
+### General Material and syllabus
 
 |  Name | Guc's acm syllabus                                                  | 
 |-------|---------------------------------------------------------------------|
@@ -25,3 +25,11 @@ https://vjudge.net/group/acmnu
 |-------|---------------------------------------------------------------------|
 |  Link | http://booksdescr.org/ads.php?md5=F6F195012783A8B3C8BB7628882A51B7   |
 |  usage| Study flow and topics syllabus, reading material , problems supply                                     |
+
+### Topic/specific Material and syllabus
+
+
+|  Name | Stacks and Queues tutorial                                                  | 
+|-------|---------------------------------------------------------------------|
+|  Link |https://www.hackerearth.com/practice/notes/stacks-and-queues/?fbclid=IwAR3J1Si_j2mKt-AR9vBp9R4fPy5T6iKeHmmuugYiSydufXpQEsF_Z7q-Teo   |
+|  usage| Study and practice stacks and Queues                                     |
