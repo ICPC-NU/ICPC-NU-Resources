@@ -33,3 +33,4 @@ https://vjudge.net/group/acmnu
 |-------|---------------------------------------------------------------------|
 |  Link |https://www.hackerearth.com/practice/notes/stacks-and-queues/?fbclid=IwAR3J1Si_j2mKt-AR9vBp9R4fPy5T6iKeHmmuugYiSydufXpQEsF_Z7q-Teo   |
 |  usage| Study and practice stacks and Queues                                     |
+|  week #| 2                                     |
