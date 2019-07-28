@@ -25,6 +25,12 @@ https://vjudge.net/group/acmnu
 |-------|---------------------------------------------------------------------|
 |  Link | http://booksdescr.org/ads.php?md5=F6F195012783A8B3C8BB7628882A51B7   |
 |  usage| Study flow and topics syllabus, reading material , problems supply                                     |
+
+|  Name | Arabic Competitive Programming                                                | 
+|-------|---------------------------------------------------------------------|
+|  Link | https://www.youtube.com/user/nobody123497   |
+|  usage| Topics explanation and video material                                     |
+
 -----------------------------------------------------------------------------------------------------------------------------------
 ### Topic/specific Material and syllabus
 
