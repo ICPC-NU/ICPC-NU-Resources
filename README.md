@@ -28,6 +28,11 @@ https://vjudge.net/group/acmnu
 
 ### Topic/specific Material and syllabus
 
+|  Name | Ad_hoc description                                                 | 
+|-------|---------------------------------------------------------------------|
+|  Link |https://en.wikipedia.org/wiki/Ad_hoc   |
+|  usage| knowledge                                     |
+|  week #| 1                                     |
 
 |  Name | Stacks and Queues tutorial                                                  | 
 |-------|---------------------------------------------------------------------|
