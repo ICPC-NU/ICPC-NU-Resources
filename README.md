@@ -55,10 +55,20 @@ https://vjudge.net/group/acmnu
 |  usage| Binary Search study (video)                                    |
 |  week #| 3                                     |
 
-
-|  Name |Mohamed Ayman's BS tutorial and notes (session tutorial)                                                 | 
+|  Name |Mohamed Ayman's BS notes and week 3 session tutorial                                                 | 
 |-------|---------------------------------------------------------------------|
 |  Link |[stacks and queues tutorial](https://drive.google.com/open?id=1ieN7Ps08H-i1Oi46XkFadOf4nGHZYBlJ)   |
 |  usage|  BS code, variations and notes                                   |
 |  week #| 3                                     |
 
+|  Name |Mohamed Ayman's BS tutorial and notes (session tutorial)                                                 | 
+|-------|---------------------------------------------------------------------|
+|  Link |[stacks and queues tutorial](https://drive.google.com/open?id=1ieN7Ps08H-i1Oi46XkFadOf4nGHZYBlJ)   |
+|  usage|  BS code, variations and notes                                   |
+|  week #| 3   
+
+|  Name |Binary search (code chef)                                                | 
+|-------|---------------------------------------------------------------------|
+|  Link |[stacks and queues tutorial](https://www.codechef.com/wiki/tutorial-binary-search?fbclid=IwAR1jQbmlWK_OrIDVhilTN_D35HoPA7AbOo4Uewh1ziSCSiHO42OublcdFWc)   |
+|  usage|  BS code and problems                                   |
+|  week #| 3   
