@@ -7,8 +7,8 @@ https://vjudge.net/group/acmnu
 | #N | Contest Link                                                   | training session | 
 |----|----------------------------------------------------------------|------------------|
 |  1 | [contest 1](https://vjudge.net/contest/312876)                               |   summer'19      |
-|  2 | [contest 1](https://vjudge.net/contest/315090)                               |   summer'19      |
-|  3| [contest 1](https://vjudge.net/contest/317223)                               |   summer'19      |
+|  2 | [contest 2](https://vjudge.net/contest/315090)                               |   summer'19      |
+|  3| [contest 3](https://vjudge.net/contest/317223)                               |   summer'19      |
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
