@@ -7,6 +7,9 @@ https://vjudge.net/group/acmnu
 | #N | Contest Link                                                   | training session | 
 |----|----------------------------------------------------------------|------------------|
 |  1 | [contest 1](https://vjudge.net/contest/312876)                               |   summer'19      |
+|  2 | [contest 1](https://vjudge.net/contest/315090)                               |   summer'19      |
+|  3| [contest 1](https://vjudge.net/contest/317223)                               |   summer'19      |
+
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ### General Material and syllabus
@@ -45,3 +48,17 @@ https://vjudge.net/group/acmnu
 |  Link |[stacks and queues tutorial](https://www.hackerearth.com/practice/notes/stacks-and-queues/?fbclid=IwAR3J1Si_j2mKt-AR9vBp9R4fPy5T6iKeHmmuugYiSydufXpQEsF_Z7q-Teo)   |
 |  usage| Study and practice stacks and Queues                                     |
 |  week #| 2                                     |
+
+|  Name |Binary Search for Optimization Problems (Arabic)                                                  | 
+|-------|---------------------------------------------------------------------|
+|  Link |[stacks and queues tutorial](https://www.youtube.com/watch?v=MTF8a-NYA4I&fbclid=IwAR20xkk6yFZcNY8XLFeAZ47XUDt2NXOgyvZ_XhrqGeM1xMe81wLwfGfZaSo)   |
+|  usage| Binary Search study (video)                                    |
+|  week #| 3                                     |
+
+
+|  Name |Mohamed Ayman's BS tutorial and notes (session tutorial)                                                 | 
+|-------|---------------------------------------------------------------------|
+|  Link |[stacks and queues tutorial](https://drive.google.com/open?id=1ieN7Ps08H-i1Oi46XkFadOf4nGHZYBlJ)   |
+|  usage|  BS code, variations and notes                                   |
+|  week #| 3                                     |
+
