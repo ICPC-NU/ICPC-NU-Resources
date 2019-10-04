@@ -15,3 +15,4 @@
   - [Past sessions documentation](past_sessions)
 - C++ competitive programming library (under construction)
 -------------------------------------------------------------------
+### Community Honorary Contributors
