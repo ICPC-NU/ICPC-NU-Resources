@@ -23,5 +23,5 @@ The competition targets anybody interested in problem solving and coding regardl
 - Join a worldwide community
 - Great team-work experience
 - There will be food in the competition
-## What are the requirements to join our club?
+## What are the requirements to join our community?
  After being a Nile University student you will only need passion and interest
