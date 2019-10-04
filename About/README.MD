@@ -11,7 +11,7 @@ We are a Nile University Student's community dedicated to expanding and housing 
 ## What is ICPC ( International Collegiate Programming Contest)?
 “The ICPC is considered as the "Olympics of Programming Competitions". It is quite simply, the oldest, largest, and most prestigious programming contest in the world.”
 ## When is it held and how do I reach the ICPC?
-It is held ever year, and in order to reach the International competition you have to win the university qualifications, then the Egyptian contest, then the arab which will qualify you to participate in the international competitive programming competition level.
+It is held ever year, and in order to reach the International competition you have to be from top teams in the university qualifications, then the Egyptian contest, then the arab which will qualify you to participate in the international competitive programming competition level.
 ##  Who does the competition target?
 The competition targets anybody interested in problem solving and coding regardless of their major.
 ##  What do I achieve from participating in the competitive programming scene?
