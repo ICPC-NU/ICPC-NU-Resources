@@ -1,3 +1,4 @@
+![icpc-nu-logo](https://github.com/ICPC-NU/ICPC-NU-Resources/blob/master/github_mats/icpc-nu.png)
 ## Who are we?
 We are a Nile University Students community dedicated to expanding and housing the competitive programming community of our university.
 ## What do we do?
