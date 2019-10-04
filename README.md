@@ -2,7 +2,7 @@
 ###### Repository that contains study material , guidelines and previous contests
 ### Contents
 - Introduction
-  - About our community & the ICPC contest(About)
+  - [About](About our community & the ICPC contest)
   - Community vision & regulations
 - Community levels
   - Level 0
