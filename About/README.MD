@@ -1,6 +1,7 @@
 <a href="https://www.facebook.com/ICPCNU">
 <img src="https://github.com/ICPC-NU/ICPC-NU-Resources/blob/master/github_mats/icpc-nu.png" width="200" height="200">
 </a>
+
 ## Who are we?
 We are a Nile University Students community dedicated to expanding and housing the competitive programming community of our university.
 ## What do we do?
