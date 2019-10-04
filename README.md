@@ -3,7 +3,7 @@
 ### Contents
 - Introduction
   - [About our community & the ICPC contest](About)
-  - [Community vision & regulations](Vision)
+  - [Community vision & regulations](vision)
 - Community levels
   - [Level 0](lvl0)
   - [Level 1](lvl1)
