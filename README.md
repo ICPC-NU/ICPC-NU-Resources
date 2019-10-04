@@ -12,4 +12,5 @@
   - [Past official contests](past_officials)
   - [past groups/contests](past_contests)
   - [Past sessions documentation](past_sessions)
+- C++ competitive programming library (under construction)
 -------------------------------------------------------------------
