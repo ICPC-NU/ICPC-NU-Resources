@@ -5,14 +5,14 @@
   - [About our community & the ICPC contest](About)
   - [Community vision & regulations](vision)
 - Community levels
-  - [Level 0](lvl0)
-  - [Level 1](lvl1)
-  - [Level 2](lvl2)
+  - [Level 0](lvl0) (UC)
+  - [Level 1](lvl1) (UC)
+  - [Level 2](lvl2) (UC)
 - Community history
-  - [Past official contests](past_officials)
-  - [past groups/online contests](past_contests)
+  - [Past official contests](past_officials) 
+  - [past groups/online contests](past_contests) (UC)
   - [past community events](past_events)
-  - [Past sessions documentation](past_sessions)
+  - [Past sessions documentation](past_sessions) (UC)
 - C++ competitive programming library (under construction)
 -------------------------------------------------------------------
 ### Community Honorary Contributors
