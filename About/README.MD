@@ -3,7 +3,7 @@
 </a>
 
 ## Who are we?
-We are a Nile University Students community dedicated to expanding and housing the competitive programming community of our university.
+We are a Nile University Student's community dedicated to expanding and housing the competitive programming community of our university.
 ## What do we do?
 - uphold the competitive programming community within NU by recruiting all the problem solvers and competitive programming contributors, as well as making it easier for NU students to participate within the competitive programming scene.
 - provide sessions for the various levels of programmers in our community.
